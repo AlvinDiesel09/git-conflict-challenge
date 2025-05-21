@@ -1,3 +1,3 @@
 # git-conflict-challenge
 
-Modification sur Github
+Modif GITHUB
